@@ -1,4 +1,4 @@
-# Database-Assignment-3
+# University Database
 
 Name: Riccardo Angiolini
 Email: angio102	
